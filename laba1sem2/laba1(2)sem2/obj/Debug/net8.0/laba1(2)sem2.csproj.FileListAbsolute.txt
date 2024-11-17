@@ -1,0 +1,17 @@
+C:\Users\korni\source\repos\laba1sem2\laba1(2)sem2\bin\Debug\net8.0\laba1(2)sem2.exe
+C:\Users\korni\source\repos\laba1sem2\laba1(2)sem2\bin\Debug\net8.0\laba1(2)sem2.deps.json
+C:\Users\korni\source\repos\laba1sem2\laba1(2)sem2\bin\Debug\net8.0\laba1(2)sem2.runtimeconfig.json
+C:\Users\korni\source\repos\laba1sem2\laba1(2)sem2\bin\Debug\net8.0\laba1(2)sem2.dll
+C:\Users\korni\source\repos\laba1sem2\laba1(2)sem2\bin\Debug\net8.0\laba1(2)sem2.pdb
+C:\Users\korni\source\repos\laba1sem2\laba1(2)sem2\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\korni\source\repos\laba1sem2\laba1(2)sem2\obj\Debug\net8.0\laba1(2)sem2.csproj.AssemblyReference.cache
+C:\Users\korni\source\repos\laba1sem2\laba1(2)sem2\obj\Debug\net8.0\laba1(2)sem2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\korni\source\repos\laba1sem2\laba1(2)sem2\obj\Debug\net8.0\laba1(2)sem2.AssemblyInfoInputs.cache
+C:\Users\korni\source\repos\laba1sem2\laba1(2)sem2\obj\Debug\net8.0\laba1(2)sem2.AssemblyInfo.cs
+C:\Users\korni\source\repos\laba1sem2\laba1(2)sem2\obj\Debug\net8.0\laba1(2)sem2.csproj.CoreCompileInputs.cache
+C:\Users\korni\source\repos\laba1sem2\laba1(2)sem2\obj\Debug\net8.0\laba1(2).B34846DA.Up2Date
+C:\Users\korni\source\repos\laba1sem2\laba1(2)sem2\obj\Debug\net8.0\laba1(2)sem2.dll
+C:\Users\korni\source\repos\laba1sem2\laba1(2)sem2\obj\Debug\net8.0\refint\laba1(2)sem2.dll
+C:\Users\korni\source\repos\laba1sem2\laba1(2)sem2\obj\Debug\net8.0\laba1(2)sem2.pdb
+C:\Users\korni\source\repos\laba1sem2\laba1(2)sem2\obj\Debug\net8.0\laba1(2)sem2.genruntimeconfig.cache
+C:\Users\korni\source\repos\laba1sem2\laba1(2)sem2\obj\Debug\net8.0\ref\laba1(2)sem2.dll
